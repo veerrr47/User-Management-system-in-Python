@@ -1,6 +1,6 @@
 #  User Management System (Python + MySQL)
 
-A console-based User Management Application built using **Python** and **MySQL**.  
+A console based User Management Application built using **Python** and **MySQL**.  
 This project allows users to **register, login, view profile details, and logout** through a clean, menu-driven interface.
 
 The project is designed with proper **separation of concerns**, custom **exception handling**, and real-world **database interaction**.
